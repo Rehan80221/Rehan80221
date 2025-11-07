@@ -22,22 +22,22 @@ I'm always excited to take on new challenges and contribute meaningfully to team
 
 ##  Tech Stack  
 
-** Programming Languages:**  
+Programming Languages: 
 Python, Java, C, SQL, R  
 
-** AI & Data Science:**  
+AI & Data Science: 
 Machine Learning, Deep Learning, Computer Vision, Data Analysis  
 
-** Cloud Platforms & Tools:**  
+Cloud Platforms & Tools:
 AWS, Google Cloud Platform (GCP), Tableau  
 
-** Core CS Concepts:**  
+Core CS Concepts:  
 Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS  
 
-** Software Development:**  
+Software Development:
 Full-Stack Development (Python, Django, SQL, React), Version Control (Git)  
 
-** Leadership & Soft Skills:**  
+Leadership & Soft Skills:
 Strategic Planning, Time Management, Problem Solving  
 
 ---
