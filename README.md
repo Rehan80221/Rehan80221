@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Rehan Haneef  
+#  Hi, I'm Rehan Haneef  
 
 🎓 **B.Tech in Artificial Intelligence & Data Science (2026)**  
-💡 **AI/ML & Cloud Computing Enthusiast** | 🚀 Passionate about Building Intelligent, Scalable Systems  
-🌍 Exploring the intersection of **AI, Data, and Cloud** to create real-world impact  
+ **AI/ML & Cloud Computing Enthusiast** | 🚀 Passionate about Building Intelligent, Scalable Systems  
+ Exploring the intersection of **AI, Data, and Cloud** to create real-world impact  
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 I'm **Muntimadugu Rehan Haneef**, a passionate **AI/ML and Cloud** enthusiast currently pursuing my **B.Tech in Artificial Intelligence & Data Science at KL University**.  
 I thrive on transforming complex problems into elegant solutions through innovative technology and strategic thinking.  
 
@@ -20,36 +20,36 @@ I'm always excited to take on new challenges and contribute meaningfully to team
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 ** Programming Languages:**  
 Python, Java, C, SQL, R  
 
-**🤖 AI & Data Science:**  
+** AI & Data Science:**  
 Machine Learning, Deep Learning, Computer Vision, Data Analysis  
 
-**☁️ Cloud Platforms & Tools:**  
+** Cloud Platforms & Tools:**  
 AWS, Google Cloud Platform (GCP), Tableau  
 
-**💻 Core CS Concepts:**  
+** Core CS Concepts:**  
 Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS  
 
-**🌐 Software Development:**  
+** Software Development:**  
 Full-Stack Development (Python, Django, SQL, React), Version Control (Git)  
 
-**🎯 Leadership & Soft Skills:**  
+** Leadership & Soft Skills:**  
 Strategic Planning, Time Management, Problem Solving  
 
 ---
 
-## 📂 Featured Projects    
-- ☁️ [Serverless Real-Time Analytics Pipeline](https://github.com/Rehan80221/Serverless_Data_Analytics_Pipeline-using-AWS) — AWS-based live data visualization  
-- 🌐 [Personal Portfolio](https://rehanhaneef-portfolio.netlify.app/) — Built with React & Tailwind CSS  
+##  Featured Projects    
+-  [Serverless Real-Time Analytics Pipeline](https://github.com/Rehan80221/Serverless_Data_Analytics_Pipeline-using-AWS) — AWS-based live data visualization  
+- [Personal Portfolio](https://rehanhaneef-portfolio.netlify.app/) — Built with React & Tailwind CSS  
 
 ---
 
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 ![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehan80221&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan80221&layout=compact&theme=radical)
 
@@ -58,8 +58,8 @@ Strategic Planning, Time Management, Problem Solving
 ## Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muntimadugu-rehan-haneef-442555263/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel)](https://rehanhaneef-portfolio.netlify.app/)  
-📧 **Email:** 2200080221aids@gmail.com  
+ **Email:** 2200080221aids@gmail.com  
 
 ---
 
-⭐ *"Learning endlessly, building fearlessly, and scaling intelligently."*
+ *"Learning endlessly, building fearlessly, and scaling intelligently."*
